@@ -1,0 +1,32 @@
+Caesar Cipher:
+The Caesar Cipher is one of the oldest and simplest forms of encryption 
+. It's named after Julius Caesar, who used it to send secret messages.
+
+1). Encryption (Hiding the Message):
+Encryption is when you take a normal message (called plaintext) and change it so no one can read
+ it unless they know the secret (called a key).
+In the Caesar Cipher, encryption works by shifting each letter in the message by a certain number
+ of places in the alphabet.
+
+Example:
+Original message: HELLO
+Key (shift): >>3
+Alphabet: A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+Shift each letter 3 steps forward:
+H → K
+E → H
+L → O
+L → O
+O → R
+Encrypted message: KHOOR
+
+2). Decryption (Getting the Message Back):
+Decryption is when you take the encrypted message and shift the letters back by the same number 
+to get the original message.
+Using the same key (3):
+K → H
+H → E
+O → L
+O → L
+R → O
+Decrypted message: HELLO
