@@ -1,0 +1,5 @@
+Debugging and Understanding Python Guessing Game
+You are given the following Python code for a number guessing game. The program 
+randomly selects a number between 1 and 100 and lets the user guess the number.
+ Depending on the chosen difficulty level, the user gets a limited number of attempts.
+
